@@ -2,12 +2,19 @@
 
 # Integrantes
 
-- Wesley Alencar
-- Fabrício Milanio
-- Lorenzo Panato
-- Matheus Medeiros
-- Roges Vargas
-- Thales Salla
+- Wesley Alencar - feat/add-readme-initial-content.
+  Definição da estrutura inicial do README e Autores.
+
+- Fabrício Milanio - branch: feat/add-comedy-movie-readme-html
+  Trabalhei no readme e no index.html, inserindo os filmes de comédia, criação da main e lista não ordenada para inserir os filmes
+
+- Lorenzo Panato - feat/add-fiction-movies
+
+- Matheus Medeiros - branchs feat/add-index-description-readme trabalhei no readm e no index nos filmes de terror
+
+- Roges Vargas - feat/add-war-movies
+
+- Thales Salla -feat/add-adventure-movies-readme-html Adicionei o filme de aventura e os links dos filmes no Readme
 
 # 2 Melhores Filmes de Cada Gênero 2023 (Segundo os integrantes do grupo 13).
 

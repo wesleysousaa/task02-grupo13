@@ -16,13 +16,13 @@
 ### John Wick 4: Baba Yaga
 
 O ex-assassino de aluguel John Wick é procurado pelo mundo todo e a recompensa por sua captura aumenta cada vez mais.
-[URL IMAGE]
+<img width=200 src="https://br.web.img3.acsta.net/pictures/22/12/05/09/07/2007563.jpg">
 
 ### O Resgate 2
 
 Depois de escapar da morte por um triz, o mercenário Tyler Rake encara mais uma missão perigosa: resgatar a família de um criminoso implacável.
 
-[URL IMAGE]
+<img width=200 src="https://static.wikia.nocookie.net/dublagem/images/7/79/Resgate-2.jpg/revision/latest?cb=20230703030517&path-prefix=pt-br">
 
 ## Terror
 
@@ -30,13 +30,13 @@ Depois de escapar da morte por um triz, o mercenário Tyler Rake encara mais uma
 
 Jogos Mortais gira em torno do assassino Jigsaw, codinome de John Kramer, que sequestra as suas vítimas e organiza gincanas brutais com elas. Tendo cometido atos imorais no passado, estas pessoas podem praticar crimes bárbaros uns contra os outros para serem salvos, numa tentativa de “reabilitá-los” através do trauma.
 
-[URL IMAGE]
+<img width=200 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLJQhS9JUVMM6o4rmTSp0K_EwIwnWV7RGeJhi-vG8Q6A&s">
 
 ### Bruxa de Blair - 1999
 
 Um grupo de três jovens cineastas desaparece ao entrar em uma floresta de Maryland para gravar um documentário sobre uma lenda local. Anos depois, a câmera que usavam é encontrada.
 
-[URL IMAGE]
+<img width=200 src="https://upload.wikimedia.org/wikipedia/pt/a/ad/Saw_poster_promocional.jpg">
 
 ## Comédia
 
@@ -80,7 +80,6 @@ Acompanhe a história de Desmond T. Doss, um médico do exército americano que,
 
 <img width=200 src="https://play-lh.googleusercontent.com/cbXnhgTplbhAMARvlS-lRxAljv-D-3GTX1T-Cm7WDcmg_0oDX8Trs-dj1uE6EE7C6kPR">
 
-
 ## Aventura
 
 ### O Rei Leão
@@ -95,9 +94,7 @@ Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com
 
 <img width=200 src="https://br.web.img2.acsta.net/medias/nmedia/18/92/91/47/20224867.jpg">
 
-
-
-## Referencias 
+## Referencias
 
 ### Ação
 
@@ -109,29 +106,22 @@ Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com
 
 [The Blair Witch Project](https://www.rottentomatoes.com/m/blair_witch_project)
 
-
 ### Ficção Científica
+
 [Interestelar](https://www.techtudo.com.br/noticias/2023/07/interestelar-veja-sinopse-do-filme-dirigido-por-christopher-nolan-streaming.ghtml)
 [VINGADORES: ULTIMATO](https://www.adorocinema.com/filmes/filme-232669/)
 
-
-
 ### Comédia
-
-
 
 [Grown Ups](https://www.rottentomatoes.com/m/grown_ups)
 
 [Dumb & Dumber](https://www.rottentomatoes.com/m/dumb_and_dumber)
-
 
 ### Guerra
 
 [Saving Private Ryan](https://www.rottentomatoes.com/m/saving_private_ryan)
 
 [Hacksaw Ridge](https://www.rottentomatoes.com/m/hacksaw_ridge)
-
-
 
 ## Aventura
 

@@ -51,3 +51,17 @@ A morte do treinador de basquete de infância de velhos amigos reúne a turma no
 Dois amigos debilóides vão para Aspen, no estado do Colorado para tentar devolver uma maleta esquecida pela passageira da limusine que um deles estava dirigindo para o aeroporto. Sem saber que na mala havia uma quantia enorme de dinheiro, que serviria para pagar o resgate de um sequestro, os dois acabam sendo perseguidos pela polícia e por assassinos profissionais.
 
 <img width=200 src="https://2.bp.blogspot.com/-eTgiiYWvZ8w/VpekzDMBG4I/AAAAAAAAeh8/OwI6iJ59tKE/s1600/978.jpg">
+
+## Ficção Científica
+
+### Interestelar
+
+Em um futuro distante, os recursos naturais da Terra estão diminuindo e a humanidade deverá migrar para outros planetas. Para encontrar um novo lar, o astronauta Joseph Cooper (Matthew McConaughey) deixa sua família no planeta para viajar pelo espaço sem muitas certezas de voltar para casa. É nessa aventura espacial que o protagonista e um grupo de exploradores começam a usar um buraco negro recém-descoberto para realizar viagens, um feito jamais realizado antes por humanos.
+
+<img width=200 src="https://upload.wikimedia.org/wikipedia/pt/3/3a/Interstellar_Filme.png">
+
+### Vingadores: Ultimato
+
+Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco.
+
+<img width=200 src="https://br.web.img3.acsta.net/pictures/19/04/26/17/30/2428965.jpg">

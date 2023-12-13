@@ -65,3 +65,17 @@ Em um futuro distante, os recursos naturais da Terra estão diminuindo e a human
 Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco.
 
 <img width=200 src="https://br.web.img3.acsta.net/pictures/19/04/26/17/30/2428965.jpg">
+
+## Guerra
+
+### O Resgate do Soldado Ryan
+
+Durante a Segunda Guerra Mundial, o capitão John Miller leva seus homens para trás das linhas inimigas para encontrar o soldado James Ryan, cujos três irmãos foram mortos em combate. Cercados pela brutal realidade da guerra, cada homem embarca em uma jornada pessoal e descobre sua própria força para triunfar sobre um futuro incerto com honra, decência e coragem.
+
+<img width=200 src="https://upload.wikimedia.org/wikipedia/pt/a/ac/Saving_Private_Ryan_poster.jpg">
+
+### Até o Último Homem
+
+Acompanhe a história de Desmond T. Doss, um médico do exército americano que, durante a Segunda Guerra Mundial, se recusa a pegar em armas. Durante a Batalha de Okinawa ele trabalha na ala médica e salva cerca de 75 homens.
+
+<img width=200 src="https://play-lh.googleusercontent.com/cbXnhgTplbhAMARvlS-lRxAljv-D-3GTX1T-Cm7WDcmg_0oDX8Trs-dj1uE6EE7C6kPR">

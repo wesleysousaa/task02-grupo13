@@ -2,7 +2,7 @@
 
 # Integrantes
 
-- Wesley Alencar - feat/add-readme-initial-content.
+- Wesley Alencar - feat/add-readme-initial-content / feat/add-authors-and-url-images
   Definição da estrutura inicial do README e Autores.
 
 - Fabrício Milanio - branch: feat/add-comedy-movie-readme-html
@@ -10,7 +10,7 @@
 
 - Lorenzo Panato - feat/add-fiction-movies
 
-- Matheus Medeiros - branchs feat/add-index-description-readme trabalhei no readm e no index nos filmes de terror
+- Matheus Medeiros - branchs feat/add-index-description-readme / feat/add-index-style trabalhei no readme e no index nos filmes de terror
 
 - Roges Vargas - feat/add-war-movies
 

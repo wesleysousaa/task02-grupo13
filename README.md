@@ -7,7 +7,7 @@
 - Lorenzo Panato
 - Matheus Medeiros
 - Roges Vargas
-- Thales Sallas
+- Thales Salla
 
 # 2 Melhores Filmes de Cada Gênero 2023 (Segundo os integrantes do grupo 13).
 
@@ -79,3 +79,62 @@ Durante a Segunda Guerra Mundial, o capitão John Miller leva seus homens para t
 Acompanhe a história de Desmond T. Doss, um médico do exército americano que, durante a Segunda Guerra Mundial, se recusa a pegar em armas. Durante a Batalha de Okinawa ele trabalha na ala médica e salva cerca de 75 homens.
 
 <img width=200 src="https://play-lh.googleusercontent.com/cbXnhgTplbhAMARvlS-lRxAljv-D-3GTX1T-Cm7WDcmg_0oDX8Trs-dj1uE6EE7C6kPR">
+
+
+## Aventura
+
+### O Rei Leão
+
+Simba, um leão herdeiro do trono, precisará enfrentar seu tio Scar e escapar de suas artimanhas para evitar perder seu posto como futuro rei.
+
+<img width=200 src="https://lumiere-a.akamaihd.net/v1/images/lion_king_the_2019_la_ih_ptb_1000_x_1440_2baad78d.jpeg?region=0%2C0%2C1000%2C1440">
+
+### O Senhor dos Anéis - O Retorno do Rei
+
+Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf (Ian McKellen) e Pippin (Billy Boyd) partam para o local na intenção de ajudar a resistência. Um exército é reunido por Theoden (Bernard Hill) em Rohan, em mais uma tentativa de deter as forças de Sauron. Enquanto isso Frodo (Elijah Wood), Sam (Sean Astin) e Gollum (Andy Serkins) seguem sua viagem rumo à Montanha da Perdição, para destruir o Um Anel.
+
+<img width=200 src="https://br.web.img2.acsta.net/medias/nmedia/18/92/91/47/20224867.jpg">
+
+
+
+## Referencias 
+
+### Ação
+
+[John Wick 4: Baba Yaga](https://www.adorocinema.com/filmes/filme-274387/)
+
+[Resgate 2]("https://www.techtudo.com.br/guia/2023/06/resgate-2-veja-sinopse-elenco-e-trailer-do-novo-filme-da-netflix-streaming.ghtml")
+
+[Jogos Mortais](https://www.rottentomatoes.com/m/saw)
+
+[The Blair Witch Project](https://www.rottentomatoes.com/m/blair_witch_project)
+
+
+### Ficção Científica
+[Interestelar](https://www.techtudo.com.br/noticias/2023/07/interestelar-veja-sinopse-do-filme-dirigido-por-christopher-nolan-streaming.ghtml)
+[VINGADORES: ULTIMATO](https://www.adorocinema.com/filmes/filme-232669/)
+
+
+
+### Comédia
+
+
+
+[Grown Ups](https://www.rottentomatoes.com/m/grown_ups)
+
+[Dumb & Dumber](https://www.rottentomatoes.com/m/dumb_and_dumber)
+
+
+### Guerra
+
+[Saving Private Ryan](https://www.rottentomatoes.com/m/saving_private_ryan)
+
+[Hacksaw Ridge](https://www.rottentomatoes.com/m/hacksaw_ridge)
+
+
+
+## Aventura
+
+[O REI LEÃO](https://www.adorocinema.com/filmes/filme-10862/)
+
+[O SENHOR DOS ANÉIS - O RETORNO DO REI](https://www.adorocinema.com/filmes/filme-39187/)

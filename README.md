@@ -110,6 +110,8 @@ Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com
 
 [Resgate 2]("https://www.techtudo.com.br/guia/2023/06/resgate-2-veja-sinopse-elenco-e-trailer-do-novo-filme-da-netflix-streaming.ghtml")
 
+### Terror
+
 [Jogos Mortais](https://www.rottentomatoes.com/m/saw)
 
 [The Blair Witch Project](https://www.rottentomatoes.com/m/blair_witch_project)

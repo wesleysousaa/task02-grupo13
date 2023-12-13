@@ -38,5 +38,16 @@ Um grupo de três jovens cineastas desaparece ao entrar em uma floresta de Maryl
 
 [URL IMAGE]
 
+## Comédia
 
+### Gente Grande
 
+A morte do treinador de basquete de infância de velhos amigos reúne a turma no mesmo lugar que celebraram um campeonato anos atrás. Os amigos, acompanhados de suas esposas e filhos, descobrem que idade não significa o mesmo que maturidade.
+
+<img width=200 src="https://upload.wikimedia.org/wikipedia/pt/f/fe/Grownupsmovie.jpg">
+
+### Debi & Loide
+
+Dois amigos debilóides vão para Aspen, no estado do Colorado para tentar devolver uma maleta esquecida pela passageira da limusine que um deles estava dirigindo para o aeroporto. Sem saber que na mala havia uma quantia enorme de dinheiro, que serviria para pagar o resgate de um sequestro, os dois acabam sendo perseguidos pela polícia e por assassinos profissionais.
+
+<img width=200 src="https://2.bp.blogspot.com/-eTgiiYWvZ8w/VpekzDMBG4I/AAAAAAAAeh8/OwI6iJ59tKE/s1600/978.jpg">

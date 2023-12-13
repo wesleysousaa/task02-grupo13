@@ -23,6 +23,7 @@
 ### John Wick 4: Baba Yaga
 
 O ex-assassino de aluguel John Wick é procurado pelo mundo todo e a recompensa por sua captura aumenta cada vez mais.
+
 <img width=200 src="https://br.web.img3.acsta.net/pictures/22/12/05/09/07/2007563.jpg">
 
 ### O Resgate 2
